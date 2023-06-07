@@ -1,0 +1,32 @@
+.container {
+    padding: 0px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    background-color: black;
+    height: 1200px;
+}
+
+.column_1 {
+    margin: 20px;
+    background-color: grey;
+    height: 300px;
+    width: 400px;
+    padding: 10px;
+}
+
+.column_2 {
+    margin: 20px;
+    margin-left: 50px;
+    background-color: grey;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
+button {
+    background-color: yellow;
+    color: black;
+}
+form {
+    padding: 10px;
+}
